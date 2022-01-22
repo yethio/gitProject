@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-update dummy4 file
-=======
-add dummy4 file
->>>>>>> 6f9df7c17d047acebc50f7eaedaef763872bb022
